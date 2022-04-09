@@ -7,8 +7,9 @@
     text-decoration: none;
     font-size: 1.2em;
     padding: 5px 30px;
-    border-radius: 2px;
-    box-shadow: 5px 5px 10px rgba(26, 26, 26, 0.335);
+    border-radius: 3px;
+    box-shadow: 3px 3px 8px rgba(26, 26, 26, 0.16);
+    background-color: aquamarine;
 }
 .nav-menu a:hover{
     color: orange;
